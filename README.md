@@ -1,4 +1,1 @@
-# Healthify
-git remote add origin https://github.com/bhavishy09/Healthify.git
-git branch -M main
-git push -u origin main
+Healthify is a fitness and wellness app that motivates users to stay consistent with their workouts, connect with like-minded gym buddies, track personal health goals, and earn real rewards through an engaging community-driven ecosystem
