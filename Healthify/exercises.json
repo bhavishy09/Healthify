@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Push Ups",
+      "description": "A basic upper body strength exercise that works the chest, shoulders, and triceps.",
+      "image": "https://wger.de/media/exercise-images/111/Push-Ups-2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Squats",
+      "description": "A lower body exercise targeting the quadriceps, hamstrings, glutes, and calves.",
+      "image": "https://wger.de/media/exercise-images/112/Squats-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Plank",
+      "description": "An isometric core exercise that builds endurance in the abs, back, and shoulders.",
+      "image": "https://wger.de/media/exercise-images/114/Plank-1.jpg"
+    }
+  ]
+  
